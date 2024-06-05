@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\Arena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|d:\\c#\\arena\\arena\\level1_ar\u00E9na.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\level1_ar\u00E9na.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\ending.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\soundtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\soundtrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\level1_ar\u00E9na.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\level1_ar\u00E9na.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|D:\\c#\\Arena\\arena\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9426BB09-268D-4BC0-8C70-77F66C6CA74E}|Arena\\Arena.csproj|solutionrelative:arena\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\Player.cs",
+              "RelativeDocumentMoniker": "Arena\\Player.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\Player.cs",
+              "RelativeToolTip": "Arena\\Player.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwJkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:12:59.311Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ending.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\ending.cs",
+              "RelativeDocumentMoniker": "Arena\\ending.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\ending.cs",
+              "RelativeToolTip": "Arena\\ending.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAnwHkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:08:13.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ending.cs [N\u00E1vrh]",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\ending.cs",
+              "RelativeDocumentMoniker": "Arena\\ending.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\ending.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Arena\\ending.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T12:07:02.141Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ai.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\Ai.cs",
+              "RelativeDocumentMoniker": "Arena\\Ai.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\Ai.cs",
+              "RelativeToolTip": "Arena\\Ai.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T10:11:07.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Soundtrack.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\Soundtrack.cs",
+              "RelativeDocumentMoniker": "Arena\\Soundtrack.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\Soundtrack.cs",
+              "RelativeToolTip": "Arena\\Soundtrack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T14:53:20.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\Enemy.cs",
+              "RelativeDocumentMoniker": "Arena\\Enemy.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\Enemy.cs",
+              "RelativeToolTip": "Arena\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:17:46.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "level1_Ar\u00E9na.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\level1_Ar\u00E9na.cs",
+              "RelativeDocumentMoniker": "Arena\\level1_Ar\u00E9na.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\level1_Ar\u00E9na.cs",
+              "RelativeToolTip": "Arena\\level1_Ar\u00E9na.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAApwL4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T16:02:45.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "level1_Ar\u00E9na.cs [N\u00E1vrh]",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\level1_Ar\u00E9na.cs",
+              "RelativeDocumentMoniker": "Arena\\level1_Ar\u00E9na.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\level1_Ar\u00E9na.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Arena\\level1_Ar\u00E9na.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:57:03.087Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\Form1.cs",
+              "RelativeDocumentMoniker": "Arena\\Form1.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\Form1.cs",
+              "RelativeToolTip": "Arena\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:50:22.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [N\u00E1vrh]",
+              "DocumentMoniker": "D:\\c#\\Arena\\Arena\\Form1.cs",
+              "RelativeDocumentMoniker": "Arena\\Form1.cs",
+              "ToolTip": "D:\\c#\\Arena\\Arena\\Form1.cs [N\u00E1vrh]",
+              "RelativeToolTip": "Arena\\Form1.cs [N\u00E1vrh]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:41:05.111Z",
+              "EditorCaption": " [N\u00E1vrh]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
